@@ -1,2 +1,2 @@
-Android-VerticalProgressbar
+Android-VerticalProgressBar
 ===========================
